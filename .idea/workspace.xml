@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10791e99-6b87-4f19-b91c-4fd5f03ef5ad" name="Default" comment="" />
+    <list default="true" id="10791e99-6b87-4f19-b91c-4fd5f03ef5ad" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstDay_Basis/FirstDay001.py" afterPath="$PROJECT_DIR$/FirstDay_Basic/FirstDay001.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstDay_Basis/FirstDay002.py" afterPath="$PROJECT_DIR$/FirstDay_Basic/FirstDay002.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstDay_Basis/FirstDay004_list.py" afterPath="$PROJECT_DIR$/FirstDay_Basic/FirstDay004_list.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/FirstDay_Basis/FisrtDay003_loop.py" afterPath="$PROJECT_DIR$/FirstDay_Basic/FisrtDay003_loop.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SecondDay_function/SecondDay001.py" afterPath="$PROJECT_DIR$/SecondDay_functions/SecondDay001.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +19,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="SecondDay001.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SecondDay_function/SecondDay001.py">
+        <entry file="file://$PROJECT_DIR$/SecondDay_functions/SecondDay001.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
@@ -85,6 +91,34 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecondDay_functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learingPython" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FirstDay_Basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -267,9 +301,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -300,7 +333,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FirstDay_Basis/FirstDay002.py</url>
+          <url>file://$PROJECT_DIR$/FirstDay_Basic/FirstDay002.py</url>
           <line>11</line>
         </line-breakpoint>
       </breakpoints>
@@ -309,7 +342,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstDay_Basis/FirstDay001.py">
+    <entry file="file://$PROJECT_DIR$/FirstDay_Basic/FirstDay001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
@@ -317,7 +350,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstDay_Basis/FisrtDay003_loop.py">
+    <entry file="file://$PROJECT_DIR$/FirstDay_Basic/FisrtDay003_loop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="538">
           <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="13" />
@@ -325,7 +358,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstDay_Basis/FirstDay002.py">
+    <entry file="file://$PROJECT_DIR$/FirstDay_Basic/FirstDay002.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -333,7 +366,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstDay_Basis/FirstDay004_list.py">
+    <entry file="file://$PROJECT_DIR$/FirstDay_Basic/FirstDay004_list.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -341,7 +374,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SecondDay_function/SecondDay001.py">
+    <entry file="file://$PROJECT_DIR$/SecondDay_functions/SecondDay001.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
