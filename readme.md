@@ -1,3 +1,5 @@
+# Learning Python
+
 开发快，语言简洁，没那么多技巧，所以读起来很清楚容易。
 
 C/C++可以写python的module，标准库里就有用C/C++写的东西，这个跟java的JNI类似。
